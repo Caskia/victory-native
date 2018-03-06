@@ -1,5 +1,5 @@
 import { AppRegistry } from "react-native";
 
-import Demo from "./demo";
+import LineChart from "./linechart";
 
-AppRegistry.registerComponent("VictoryDemo", () => Demo);
+AppRegistry.registerComponent("VictoryDemo", () => LineChart);
